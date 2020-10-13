@@ -1,0 +1,10 @@
+npm i bootstarp reactstrap uuid react-transition-group
+
+Module uuid
+   * if You can't import module uuid, you should import uuid from 'uuid/v1
+
+Bootstarp
+    Classname's attribute of CSSTransition should be Classnames
+    https://reactstrap.github.io/components/navbar/
+
+de'preciate =(v) เสื่อมค่า ลดลง ไม่เห็นค่า
